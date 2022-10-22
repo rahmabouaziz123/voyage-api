@@ -13,7 +13,10 @@ export const Home = () => {
           />
           <Carousel.Caption>
             <h3>Florida</h3>
-            <p>Située à l'extrême sud-est des Etats-Unis, la Floride est bordée au Nord par l'Alabama et la Georgie. </p>
+            <p>
+              Située à l'extrême sud-est des Etats-Unis, la Floride est bordée
+              au Nord par l'Alabama et la Georgie.{" "}
+            </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -25,7 +28,10 @@ export const Home = () => {
 
           <Carousel.Caption>
             <h3>gouala lampur</h3>
-            <p>Une promenade dans les rues de Kuala Lumpur donne l'impression de voyager entre l'antiquité et le présent..</p>
+            <p>
+              Une promenade dans les rues de Kuala Lumpur donne l'impression de
+              voyager entre l'antiquité et le présent..
+            </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -38,7 +44,8 @@ export const Home = () => {
           <Carousel.Caption>
             <h3>Miami</h3>
             <p>
-            Miami est une ville internationale à la pointe sud-est de la Floride.
+              Miami est une ville internationale à la pointe sud-est de la
+              Floride.
             </p>
           </Carousel.Caption>
         </Carousel.Item>
